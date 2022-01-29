@@ -1,4 +1,4 @@
-HACK THE URBAN CIRCULAR ECONOMY
+React Native app - HACK THE URBAN CIRCULAR ECONOMY
 
 Roinaa – Engaging local communities in recycling activities
 
